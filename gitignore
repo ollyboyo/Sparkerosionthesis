@@ -1,0 +1,12 @@
+## The .gitignore file specifies things that git should ignore.
+
+# Python / PyCharm
+__pycache__/
+.idea
+.pytest_cache
+test/
+venv_DataBricks/
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
